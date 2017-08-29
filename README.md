@@ -1,2 +1,2 @@
 # Hello-Folks
-hello world
+I am trying to get acquanted  with GITHUB.
